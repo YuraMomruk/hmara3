@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="DesctopContactApp.Controls.ContactControlApp"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DesctopContactApp.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="400">
+    <Grid Background="LightGray">
+        <StackPanel>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+
+                </Grid.RowDefinitions>
+                <TextBlock Text="Name"
+                           FontSize="20"
+                           x:Name ="nameTextBlock"
+                           FontWeight="Bold"/>
+                <TextBlock Grid.Column="1" Text="Surname"
+                           FontSize="20"
+                           x:Name ="surnameTextBlock"
+                           FontWeight="Bold"/>
+                <TextBlock Grid.Column="2" Text="Patronymic"
+                           FontSize="20"
+                           x:Name ="PatronymicTextBlock"    
+                           FontWeight="Bold"/>
+            </Grid>
+
+            <TextBlock Text="Address"
+                                       FontSize="15"    
+                                        x:Name ="AddressTextBlock"
+                                       Foreground="BlanchedAlmond"/>
+            <TextBlock Text="123 456 7889"
+                                       FontSize="20"
+                        x:Name ="phoneTextBlock"
+                                       FontStyle="Italic"/>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

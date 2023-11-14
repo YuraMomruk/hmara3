@@ -1,0 +1,272 @@
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\DesctopContactApp.exe.config
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\DesctopContactApp.exe
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\DesctopContactApp.pdb
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Azure.Core.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Azure.Storage.Blobs.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Azure.Storage.Common.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\SQLite-net.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Buffers.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.IO.Hashing.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Memory.Data.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Memory.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Text.Json.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.ValueTuple.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Azure.Core.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Azure.Storage.Blobs.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Azure.Storage.Common.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\SQLite-net.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Buffers.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.IO.Hashing.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Memory.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Memory.Data.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Text.Json.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\System.ValueTuple.xml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.AssemblyReference.cache
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\ContactDetails.g.cs
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\Controls\ContactControlApp.g.cs
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\MainWindow.g.cs
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\NewContactWindow.g.cs
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\App.g.cs
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp_MarkupCompile.cache
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp_MarkupCompile.lref
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\ContactDetails.baml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\Controls\ContactControlApp.baml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\MainWindow.baml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\NewContactWindow.baml
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp.g.resources
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp.Properties.Resources.resources
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.GenerateResource.cache
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.CoreCompileInputs.cache
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.CopyComplete
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp.exe
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp.pdb
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projects\Хмарні Технології\Хмарні Технології\DesctopContactApp_AzureBlobStorage\DesctopContactApp\obj\Debug\DesctopContactApp_Content.g.cs
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\DesctopContactApp.exe.config
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\DesctopContactApp.exe
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\DesctopContactApp.pdb
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Core.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Storage.Blobs.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Storage.Common.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLite-net.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Buffers.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.IO.Hashing.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Memory.Data.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Memory.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Text.Json.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.ValueTuple.dll
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Core.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Storage.Blobs.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Storage.Common.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLite-net.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Buffers.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.IO.Hashing.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Memory.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Memory.Data.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Text.Json.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.ValueTuple.xml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.AssemblyReference.cache
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\ContactDetails.g.cs
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\Controls\ContactControlApp.g.cs
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\MainWindow.g.cs
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\NewContactWindow.g.cs
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\App.g.cs
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp_Content.g.cs
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp_MarkupCompile.cache
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp_MarkupCompile.lref
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\ContactDetails.baml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\Controls\ContactControlApp.baml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\MainWindow.baml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\NewContactWindow.baml
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.g.resources
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.Properties.Resources.resources
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.GenerateResource.cache
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.CoreCompileInputs.cache
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.CopyComplete
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.exe
+C:\Projects\Хмарні Технології\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.pdb
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\DesctopContactApp.exe.config
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\DesctopContactApp.exe
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\DesctopContactApp.pdb
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Core.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Storage.Blobs.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Storage.Common.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Options.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Newtonsoft.Json.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLite-net.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLitePCLRaw.core.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Buffers.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.IO.Hashing.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Memory.Data.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Memory.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Numerics.Vectors.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Text.Encodings.Web.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Text.Json.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.ValueTuple.dll
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Core.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Storage.Blobs.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Azure.Storage.Common.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Options.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\Newtonsoft.Json.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\SQLite-net.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Buffers.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.IO.Hashing.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Memory.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Memory.Data.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Numerics.Vectors.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Text.Encodings.Web.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Text.Json.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\bin\Debug\System.ValueTuple.xml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.AssemblyReference.cache
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\ContactDetails.g.cs
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\Controls\ContactControlApp.g.cs
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\MainWindow.g.cs
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\NewContactWindow.g.cs
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\App.g.cs
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp_Content.g.cs
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp_MarkupCompile.cache
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp_MarkupCompile.lref
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\ContactDetails.baml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\Controls\ContactControlApp.baml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\MainWindow.baml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\NewContactWindow.baml
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.g.resources
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.Properties.Resources.resources
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.GenerateResource.cache
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.CoreCompileInputs.cache
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.csproj.CopyComplete
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.exe
+D:\політех 3 курс\хмарні технології\laba3\ContactsKhrystyna\DesctopContactApp\obj\Debug\DesctopContactApp.pdb
